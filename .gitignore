@@ -127,3 +127,6 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+crypto_contract_value/_lowlevel.py
+crypto_contract_value/_lowlevel__ffi.py
